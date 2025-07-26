@@ -1,0 +1,27 @@
+h1{
+    text-align:center;
+}
+body{
+     background-color : rgba(0, 0, 0, 0.742);
+}
+h1{
+    color:blue;
+}
+th{
+    color:orange;
+}
+#hello{
+    font-weight:bold;
+    background-color:lightblue;
+}
+#you{
+    font-weight:bold;
+    color:green;
+}
+body{
+    text-align:center
+  
+}
+ol{
+    list-style-position:inside
+}
